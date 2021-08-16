@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some things I have done :)
+
+- [slarwise/vim-erl-goto](https://github.com/slarwise/vim-erl-goto) Completion for erlang in (neo)vim
+- [slarwise/scorescanner](https://github.com/slarwise/scorescanner) Scans your hand-written scoreboard and computes the sum for each column
+
+![slarwise's GitHub stats](https://github-readme-stats.vercel.app/api?username=slarwise)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slarwise)
