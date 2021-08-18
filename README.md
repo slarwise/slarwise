@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like to create (neo)vim plugins and do python and erlang developments (:
+I like to create (neo)vim plugins and do python and erlang development (:
 
 [Portfolio](https://slarwise.github.io)
 
