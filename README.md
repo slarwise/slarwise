@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **slarwise/slarwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some things I have done :)
+I like to create (neo)vim plugins and do python and erlang developments (:
 
-- [slarwise/vim-erl-goto](https://github.com/slarwise/vim-erl-goto) Completion for erlang in (neo)vim
-- [slarwise/scorescanner](https://github.com/slarwise/scorescanner) Scans your hand-written scoreboard and computes the sum for each column
+[Portfolio](https://slarwise.github.io)
 
 ![slarwise's GitHub stats](https://github-readme-stats.vercel.app/api?username=slarwise)
 
