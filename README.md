@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I like to create (neo)vim plugins and do python and erlang development (:
 
-[Portfolio](https://slarwise.github.io)
-
 ![slarwise's GitHub stats](https://github-readme-stats.vercel.app/api?username=slarwise)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slarwise)
